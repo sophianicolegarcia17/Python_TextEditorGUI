@@ -2,7 +2,7 @@
 
 This is a simple text editor program created in Python using the Tkinter library. This program provides basic text editing functionalities and allows you to customize the text appearance.
 
-<img src="text_editor_screenshot.png" alt="Screenshot" width="400">
+<img src="text_editor_screenshot.png" alt="Screenshot" width="800">
 
 ## Features
 - Can choose and change text color.
